@@ -3,5 +3,6 @@
 # Link to Project
 https://mavenanalytics.io/project/13183
 
-![image 1](https://github.com/Keerthana-Allam/CoffeeShopStrategy-MavenChallenge/assets/150170576/234daf19-5b1b-4e2d-b293-246aab9e898e)
+![image](https://github.com/Keerthana-Allam/CoffeeShopStrategy-MavenChallenge/assets/150170576/c397fdcb-3197-452f-a413-fbe90c03664f)
+
 
